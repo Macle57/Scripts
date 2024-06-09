@@ -61,6 +61,7 @@ You will also need to add the following to the `settings.json` file - in order t
 ```json
 "powershell.enableProfileLoading": true,
 "powershell.scriptAnalysis.enable": true,
+"terminal.integrated.defaultProfile.windows": "Windows PowerShell"
 ```
 
 Then, you will need to copy the `Microsoft.VSCode_profile.ps1` file to the following directory:
